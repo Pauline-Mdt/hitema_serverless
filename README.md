@@ -23,11 +23,11 @@ La solution consiste à migrer vers une architecture cloud Azure pour gagner en 
 
 ## Documentation
 
-- Modèles des ressources Azure crées : 
-- Code des Azure fonctions et leurs HTTP triggers : 
+- Modèles des ressources Azure crées : (models/)
+- Code des Azure fonctions et leurs HTTP triggers : (code/) 
 
 ## Livraison
 
 Liens les endpoints de l'API 
-- Tattooists Get :
-- Tattooists List :
+- Tattooists Get : (https://api-tattooists-get.azurewebsites.net/api/httptrigger?id=B8E30737-758B-49E0-A153-B210B80749F4)
+- Tattooists List : (https://api-tattooists-list.azurewebsites.net/api/httptrigger)
